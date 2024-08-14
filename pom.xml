@@ -11,9 +11,13 @@
 	<groupId>com.mruruc</groupId>
 	<artifactId>custom_authentication</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>custom_authentication</name>
+	<name>spring_security_applications</name>
 
-	<description>Demo project for Spring Security with custom authentication</description>
+	<description>
+		understanding_spring_security
+	</description>
+
+
 
 	<developers>
         <developer>
